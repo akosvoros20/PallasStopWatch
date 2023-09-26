@@ -1,0 +1,2 @@
+# PallasStopWatch
+Pallas modulzáró vizsgafeladat
